@@ -1,0 +1,5 @@
+# Projeto
+Data Science Para Análise Multivariada de DadosData Science Academywww.datascienceacademy.com.brNeste projeto vamosaplicar a técnica de Análise de Componentes Principais (PCA) para reduzir a dimensionalidade de um conjunto de dados obtidos a partir de sensores em máquinas industriais.
+
+# Objetivo
+O  objetivo  é  simplificar  os  dados  preservando  as  informações  mais  críticas,  o  que facilita a construção e a eficiência de um modelo preditivo. Este modelo será desenvolvido para prever   falhas   potenciais   ou   necessidades   de   manutenção   nas   máquinas,   aumentando   a confiabilidade e eficiência operacional. Ao reduzir a quantidade devariáveis, o PCA não apenas melhora  o  tempo  de  treinamento  do  modelo,  mas  também  ajuda  a  evitar  o  sobreajuste(overfitting)e  melhora  a  generalização  do  modelo  em  dados  não  vistos.  O  projeto  combina métodos  avançados  de  análise  de  dados  com  aplicações  práticas  na  manutenção  preditiva, representando um passo significativo em direção à otimização da gestão de ativos e operações industriais.
